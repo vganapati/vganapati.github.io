@@ -5,39 +5,43 @@
     url: https://patents.google.com/patent/US11229353B2/en
     display: US Patent 11,229,353
   pdf: US11229353.pdf
- 
-- title: "Data-Driven Computational Imaging for Scientific Discovery"
-  authors: Andrew Olsen, Yolanda Hu, Vidya Ganapati 
-  link:
-    url: TBA
-    display:  TBA
-  pdf: AI4Science.pdf
   
-- title: "Data-Driven Computational Imaging for Scientific Discovery"
-  authors: Andrew Olsen, Yolanda Hu, Vidya Ganapati 
+- title: "Optical implementation of machine learning for real time increased contrast via multiple wavelength illumination with tunable power"
+  authors: Eden Rephaeli, Vidya Ganapati, Daniele Piponi, Thomas Teisseyre
+  year: 2020
   link:
-    url: TBA
-    display:  TBA
-  pdf: AI4Science.pdf
-  
-- title: "Data-Driven Computational Imaging for Scientific Discovery"
-  authors: Andrew Olsen, Yolanda Hu, Vidya Ganapati 
-  link:
-    url: TBA
-    display:  TBA
-  pdf: AI4Science.pdf
- 
-- title: "Data-Driven Computational Imaging for Scientific Discovery"
-  authors: Andrew Olsen, Yolanda Hu, Vidya Ganapati 
-  link:
-    url: TBA
-    display:  TBA
-  pdf: AI4Science.pdf
-  
-- title: "Data-Driven Computational Imaging for Scientific Discovery"
-  authors: Andrew Olsen, Yolanda Hu, Vidya Ganapati 
-  link:
-    url: TBA
-    display:  TBA
-  pdf: AI4Science.pdf
+    url: https://patents.google.com/patent/US10878264B2/en
+    display: US Patent 10,878,264
+  pdf: US10878264.pdf
 
+- title: "Tunable color-temperature white light source"
+  authors: Vidya Ganapati, Supriyo Sinha, Eden Rephaeli
+  year: 2020
+  link:
+    url: https://patents.google.com/patent/US10835102B2/en
+    display: US Patent 10,835,102
+  pdf: US10835102.pdf
+  
+- title: "Simultaneous visible and fluorescence endoscopic imaging"
+  authors: Vidya Ganapati, Eden Rephaeli, Daniele Piponi
+  year: 2019
+  link:
+    url: https://patents.google.com/patent/US10473911B2/en
+    display: US Patent 10,473,911
+  pdf: US10473911.pdf
+
+- title: "System and method for 3D scene reconstruction with dual complementary pattern illumination"
+  authors: Vidya Ganapati, Eden Rephaeli
+  year: 2019
+  link:
+    url: https://patents.google.com/patent/US10410365B2/en
+    display: US Patent 10,410,365
+  pdf: US10410365.pdf
+  
+- title: "Parallel programmable array microscope"
+  authors: Victor M. Acosta, Vidya Ganapati
+  year: 2017
+  link:
+    url: https://patents.google.com/patent/US9535242B1/en
+    display: US Patent 9,535,242
+  pdf: US9535242.pdf
