@@ -1,13 +1,12 @@
 ---
-title: "Allan Lab - Home"
+title: "Ganapati Lab - Home"
 layout: homelay
-excerpt: "Allan Lab at Leiden University."
+excerpt: "Ganapati Lab at Swarthmore College."
 sitemap: false
 permalink: /
 ---
 
-We are a dynamic research group at the [Leiden Institute of Physics](http://www.physics.leidenuniv.nl). Our aim is to explore and understand [quantum materials](http://condensedconcepts.blogspot.nl/2013/05/what-is-quantum-matter.html), including strange metals, high-temperature superconductors, and quantum critical electron matter.
-
+We are a research group in the Swarthmore College Engineering Department. Our focus is computational imaging systems such as computed tomography (CT), in which hardware and software are co-designed to enable enhanced capability such as 3D imaging. However, these advanced features come at the cost of long acquisition times. In our group, we create data-driven design methods for computational imaging systems to improve temporal resolution, enabling scientific discovery in previously inaccessible regimes. 
 
 <div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="4000" data-pause="hover" >
     <!-- Menu -->
@@ -53,16 +52,12 @@ We are a dynamic research group at the [Leiden Institute of Physics](http://www.
 </div>
 
 
+Our research is interdisciplinary, drawing from physics, optimization, machine learning, and signal processing. We collaborate with the Swarthmore College Biology Department, co-located with us in Singer Hall, using Fourier ptychography to visualize microscopic phase objects such as [planarians](), [sea urchins](), and [human cells](). We also collaborate with [Janelia Research Campus](https://www.janelia.org) on reconstruction methods for X-ray holographic nano-tomography and [Lawrence Berkeley National Laboratory](https://crd.lbl.gov) to improve micro-computed tomography. 
+
+ **We are always looking for motivated Swarthmore undergraduates to join our team!** [(more info)]({{ site.url }}{{ site.baseurl }}/vacancies) **!**
 
 
-To this end, we develop novel spectroscopic-imaging scanning tunneling microscopy (SI-STM) tools to visualize the relevant quantum mechanical degrees of freedom. We want to be able to build the perfect instruments to answer the  scientific questions we deem most important (see [Research](research)).
-
-We are located at Leiden University, the birthplace of superconductivity and home to Kamerlingh Onnes, Lorentz, Huygens, Einstein, de Sitter, and others (see e.g. [the wall of signatures from Ehrenfest lecturers](https://www.lorentz.leidenuniv.nl/history/colloquium/muur_heel.html)). We exchange ideas and work with our neighbors from [Quantum Matter & Optics](http://www.physics.leidenuniv.nl/qo-home), as well as with the colleagues from our [world-class theory section](https://www.lorentz.leidenuniv.nl).
-
- **We are  looking for passionate new PhD students, Postdocs, and Master students to join the team** [(more info)]({{ site.url }}{{ site.baseurl }}/vacancies) **!**
-
-
-We are grateful for funding from Leiden University, [NWO](www.nwo.nl) ([Vidi talent scheme](http://www.nwo.nl/en/research-and-results/programmes/Talent+Scheme) and the [Frontiers in Nanoscience program](https://www.universiteitleiden.nl/en/research/research-projects/science/frontiers-of-nanoscience-nanofront)), and from an [ERC starting grant](https://erc.europa.eu/funding/starting-grants).
+We are grateful for support from [Swarthmore College](https://www.swarthmore.edu), the [U.S. Department of Energy's Office of Science](https://www.energy.gov/science/office-science), [Janelia Research Campus](https://www.janelia.org), and the [American Association for University Women](https://www.aauw.org).
 
 <figure class="fourth">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_Leiden.jpg" style="width: 210px">

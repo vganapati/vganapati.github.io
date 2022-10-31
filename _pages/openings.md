@@ -1,5 +1,5 @@
 ---
-title: "Allan Lab - Vacancies"
+title: "Ganapati Lab - Open Positions"
 layout: textlay
 excerpt: "Openings"
 sitemap: false
@@ -8,33 +8,16 @@ permalink: /vacancies
 
 # Open positions
 
-**We are currently open for PhD and postdoc applications related to our ERC CoG grant. The positions are mostly related to the Electron Pair Microscopy projects.**
+We are always looking for Swarthmore undergraduates to join us, from freshman to seniors. It is never too early to get involved in research! You will have the chance to work on cutting-edge projects, often at the interface of hardware design and novel computer algorithms. Many past undergraduates have authored papers published in leading journals and conferences in the field. You are encouraged to take E19: Numerical Methods for Engineers, E30: Computational Optics, and/or E56: Modeling and Optimization either before or while conducting research in the lab.
 
-We are  looking for new group members with passion, talent, and grit!
+### Summer Positions
+We have multiple full-time positions available in the summer. The deadline to apply for Swarthmore summer funding is usually in early February. Please contact me before you apply for summer funding to develop a project proposal of mutual interest. You are encouraged to get in contact as early as possible in the Fall semester if you are interested in summer research.
 
-You will have the chance to work on the grand challenges of condensed matter physics, often at the interface of instrumental design and new physics. You will be involved in determining the important and interesting questions, creating and improving instrumental setups, performing measurements, and making discoveries.
+### Academic Year Positions
+During the academic year, students can receive academic credit (as a directed reading) or pay for research in the lab. You may contact me at any time if you are interested in this option.
 
-### Past open positions
-
-You find the past job openings here:
-[Opening 1]({{ site.baseurl }}/downloads/GeneralPostdoc_2019_v01.pdf),
-[Opening 2]({{ site.baseurl }}/downloads/PPMS_PhD_2019_v01.pdf),
-[Opening 3]({{ site.baseurl }}/downloads/PD.pdf),
-[Opening 4]({{ site.baseurl }}/downloads/PHD1.pdf),
-[Opening 5]({{ site.baseurl }}/downloads/PHD2.pdf).
-
-### Applications for PhD and Postdoc positions
-If you are interested in working with us as a PhD student or postdoc, please send me an [email](mailto:milan.allan@gmail.com). State briefly why you are interested and attach a CV, including information about the grades you had as an undergraduate. No need for a separate cover letter or certificates. **Important**: please insert _"Application PhD"_ or _"Application Postdoc"_ in the subject line. If you are applying to a specific advertisement, note this in your email.
-
-We especially welcome postdocs with fellowships. I'd be happy to support you, also after you apply to our group. Take a look at the [veni fellowship](https://www.nwo.nl/en/calls/nwo-talent-programme-veni-science-domain) or the Marie Curie fellowship (currently closed, next deadline probably Fall 2021, [here is last years call]({{ site.baseurl }}/downloads/h2020-wp1820-msca_en.pdf)). In many country, there are also fellowships available for outdoing postdocs.**
-
-
-### Master projects for Leiden University students
-If you are a Master student at Leiden University looking for a Master project, contact me (or any group member) per email or stop by my office.
-
-### Bsc / Master students from elsewhere
-If you are interested in pursuing a Master degree at Leiden University, see [mastersinleiden.nl](http://www.mastersinleiden.nl/programmes/physics/en/introduction). Sometimes, we take master students or summer interns if we get exceptional applicants (this usually means very good grades and a personal recommendation).
-
+### E90: Senior Capstone
+All Engineering majors must complete a senior capstone project. During the Fall semester of your senior year, you will choose the project, and the work will be completed during the Spring semester. I highly recommend that students interested in a senior capstone in the lab complete either (1) a summer position or (2) a directed reading during the senior year Fall semester, and expand that work into the senior capstone.
 
 <figure>
 <img src="{{ site.url }}{{ site.baseurl }}/images/picpic/Gallery/DSC_0696.jpg" width="95%">

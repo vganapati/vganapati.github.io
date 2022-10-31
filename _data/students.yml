@@ -1,23 +1,23 @@
-#- name:
-#  photo: rock.jpg
-#  info:
-#  email:
-#  number_educ:
-#  education1:
-#  education2:
-#  education3:
-#  education4:
+- name: Rey Mendoza
+  photo: rey_photo.jpg
+  number_educ: 1
+  major: Engineering
+  class: 2023
+  
+- name: Judith Weng Zhu
+  photo: judith.jpg
+  number_educ: 2
+  major: Engineering
+  class: 2023
+  
+- name: Minh Nguyen
+  photo: minh.jpg
+  number_educ: 3
+  major: Engineering
+  class: 2023
 
-- name: Thijs van den Munckhof
-  photo: rock.jpg
-  info: Master student
-  email: m.ortego.larrazabal@umail.leidenuniv.nl
-  number_educ: 0
-  education1:
-
-- name: João van der Ven
-  photo: rock.jpg
-  info: BSc student
-  email: m.ortego.larrazabal@umail.leidenuniv.nl
-  number_educ: 0
-  education1:
+- name: Michelle Zhuang
+  photo: michelle.png
+  number_educ: 3
+  major: Engineering
+  class: 2023
