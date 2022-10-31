@@ -1,31 +1,3 @@
-- title: "Data-Driven Computational Imaging for Scientific Discovery"
-  image: PVAE_frogblood.png
-  description: This work creates a novel method for data-driven reconstruction in computational imaging, when no ground truth training dataset is available. Light-emitting diode (LED) array microscopy, a modality that allows visualization of transparent objects in two and three dimensions with high resolution and field-of-view, is used as an illustrative example.
-  authors: Andrew Olsen, Yolanda Hu, Vidya Ganapati 
-  link:
-    url: TBA
-    display:  NeurIPS 2022 AI for Science Workshop
-  pdf: AI4Science.pdf
-  code: https://github.com/vganapati/LED_PVAE
-  data: https://doi.org/10.6084/m9.figshare.21232088 
-  highlight: 1
-  news2:
-
-- title: "A Self-Supervised Approach to Reconstruction in Sparse X-Ray Computed Tomography"
-  image: sinogram.png
-  description: Computed tomography allows for the elucidation of 3-dimensional internal structure by the attenuation of x-rays through an object at different rotations relative to the beam. However, the x-ray beam can damage the sample, necessitating the development of sparse x-ray tomography that only requires measurements at a low number of rotation angles. This work develops and validates a self-supervised probabilistic deep learning technique for object reconstruction in this sparse regime.
-  authors: Rey Mendoza, Minh Nguyen, Judith Weng Zhu, Talita Perciano, Vincent Dumont, Juliane Mueller, Vidya Ganapati    
-  link:
-    url: TBA
-    display:  NeurIPS 2022 Machine Learning and the Physical Sciences Workshop 
-  pdf: neurips_2022.pdf
-  code: https://github.com/vganapati/CT_PVAE 
-  data: 
-  highlight: 1
-  news1: 
-  news2:
-  doi: 
-  
 - title: "Evaluating Research Grade Bioimpedance Hardware using Textile Electrodes for Long-term Fluid Status Monitoring"
   image: sock.png
   description: Human calf bioimpedance can be a useful for diagnostics and monitoring in conditions such as congestive heart failure. We prototype a fabric sock to mimic a printed circuit board and electronically connect to the calf; the sock consists of layers of conductive and insulating fabric connected by metallic snaps that act as vias.
@@ -33,10 +5,3 @@
   link:
     url: https://doi.org/10.3389/felec.2021.762442
     display: Frontiers in Electronics (2022)
-  pdf: frontiers.pdf
-  code: 
-  data: 
-  highlight: 1
-  news1: 
-  news2:
-  doi: 10.3389/felec.2021.7624  
