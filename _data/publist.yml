@@ -9,7 +9,7 @@
   
 - title: "Data-Driven Computational Imaging for Scientific Discovery"
   image: PVAE_frogblood.png
-  description: "This work creates a novel method for data-driven reconstruction in computational imaging, when no ground truth training dataset is available. Light-emitting diode (LED) array microscopy, a modality that allows visualization of transparent objects in two and three dimensions with high resolution and field-of-view, is used as an illustrative example."
+  description: test
   authors: Andrew Olsen, Yolanda Hu, Vidya Ganapati 
   link:
     url: https://nips.cc/Conferences/2022/ScheduleMultitrack?event=50019
