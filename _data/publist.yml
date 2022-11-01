@@ -6,3 +6,16 @@
     url: https://arxiv.org/abs/2205.10346
     display: arXiv:2205.10346 (2022)
   highlight: 1
+  
+  - title: "Data-Driven Computational Imaging for Scientific Discovery"
+  image: PVAE_frogblood.png
+  description: "This work creates a novel method for data-driven reconstruction in computational imaging, when no ground truth training dataset is available. Light-emitting diode (LED) array microscopy, a modality that allows visualization of transparent objects in two and three dimensions with high resolution and field-of-view, is used as an illustrative example."
+  authors: Andrew Olsen, Yolanda Hu, Vidya Ganapati 
+  link:
+    url: https://nips.cc/Conferences/2022/ScheduleMultitrack?event=50019
+    display:  NeurIPS 2022 AI for Science Workshop
+  pdf: AI4Science.pdf
+  code: https://github.com/vganapati/LED_PVAE
+  data: https://doi.org/10.6084/m9.figshare.21232088 
+  highlight: 1
+  news2:
