@@ -42,3 +42,18 @@
   news1:
   news2:
   doi: 10.3389/felec.2021.7624
+
+- title: "HYPPO: A Surrogate-Based Multi-Level Parallelism Tool for Hyperparameter Optimization"
+  image: hyppo.jpg
+  description: What are the best hyperparameters (e.g. batch size, training rate, network depth) for a neural network? We would like to optimize these hyperparameters, but obtaining the derivatives for a gradient-based search is difficult. Thus, we estimate surrogate models of the underlying function relating the hyperparameters to figure of merit. Using forward function calls, we improve this surrogate function until our compute budget runs out. We validate HYPPO for different use cases, including sparse x-ray computed tomography.
+  authors: Vincent Dumont, Casey Garner, Anuradha Trivedi, Chelsea Jones, Vidya Ganapati, Juliane Mueller, Talita Perciano, Mariam Kiran, Marc Day
+  link:
+    url: https://ieeexplore.ieee.org/abstract/document/9653176
+    display: 2021 IEEE/ACM Workshop on Machine Learning in High Performance Computing Environments
+  pdf: HYPPO_A_Surrogate-Based_Multi-Level_Parallelism_Tool_for_Hyperparameter_Optimization.pdf
+  code: https://gitlab.com/hpo-uq/hyppo
+  data: 0
+  highlight: 1
+  news1: See code documentation [here](https://hpo-uq.gitlab.io/hyppo/).
+  news2:
+  doi: 10.1109/MLHPC54614.2021.00013
