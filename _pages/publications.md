@@ -30,7 +30,8 @@ permalink: /publications/
   <p>{{ publi.description }}</p>
   <p><em>{{ publi.authors }}</em></p>
   <p><strong><a href="{{ publi.link.url }}">{{ publi.link.display }}</a></strong></p>
-  <p><strong><a href="{{ site.url }}{{ site.baseurl }}/paperpdfs/{{ publi.pdf }}">pdf</a></strong></p>
+  <p><a href="{{ publi.link.url }}">Link</a></p>
+  <p><strong><a href="{{ site.url }}{{ site.baseurl }}/paperpdfs/{{ publi.pdf }}">PDF</a></strong></p>
   <p><strong><a href="{{ publi.code }}">Code</a></strong></p>
   <p><strong><a href="{{ publi.data}}">Data</a></strong></p>
   <p class="text-danger"><strong> {{ publi.news1 }}</strong></p>
