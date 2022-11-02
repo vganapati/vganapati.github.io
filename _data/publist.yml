@@ -1,33 +1,33 @@
 - title: "Data-Driven Computational Imaging for Scientific Discovery"
   image: PVAE_frogblood.png
   description: This work creates a novel method for data-driven reconstruction in computational imaging, when no ground truth training dataset is available. Light-emitting diode (LED) array microscopy, a modality that allows visualization of transparent objects in two and three dimensions with high resolution and field-of-view, is used as an illustrative example
-  authors: Andrew Olsen, Yolanda Hu, Vidya Ganapati 
+  authors: Andrew Olsen, Yolanda Hu, Vidya Ganapati
   link:
     url: https://nips.cc/Conferences/2022/ScheduleMultitrack?event=50019
     display:  NeurIPS 2022 AI for Science Workshop
   pdf: AI4Science.pdf
   code: https://github.com/vganapati/LED_PVAE
-  data: https://doi.org/10.6084/m9.figshare.21232088     
+  data: https://doi.org/10.6084/m9.figshare.21232088
   highlight: 1
   news1:
   news2:
   doi:
-  
+
 - title: "A Self-Supervised Approach to Reconstruction in Sparse X-Ray Computed Tomography"
   image: sinogram.png
-  description: "Computed tomography allows for the elucidation of 3-dimensional internal structure by the attenuation of x-rays through an object at different rotations relative to the beam. However, the x-ray beam can damage the sample, necessitating the development of sparse x-ray tomography that only requires measurements at a low number of rotation angles. This work develops and validates a self-supervised probabilistic deep learning technique for object reconstruction in this sparse regime."
-  authors: Rey Mendoza, Minh Nguyen, Judith Weng Zhu, Talita Perciano, Vincent Dumont, Juliane Mueller, Vidya Ganapati    
+  description: Computed tomography allows for the elucidation of 3-dimensional internal structure by the attenuation of x-rays through an object at different rotations relative to the beam. However, the x-ray beam can damage the sample, necessitating the development of sparse x-ray tomography that only requires measurements at a low number of rotation angles. This work develops and validates a self-supervised probabilistic deep learning technique for object reconstruction in this sparse regime.
+  authors: Rey Mendoza, Minh Nguyen, Judith Weng Zhu, Talita Perciano, Vincent Dumont, Juliane Mueller, Vidya Ganapati
   link:
     url: TBA
-    display:  NeurIPS 2022 Machine Learning and the Physical Sciences Workshop 
+    display:  NeurIPS 2022 Machine Learning and the Physical Sciences Workshop
   pdf: neurips_2022.pdf
-  code: https://github.com/vganapati/CT_PVAE 
+  code: https://github.com/vganapati/CT_PVAE
   data: 0
   highlight: 1
-  news1: 
+  news1:
   news2:
-  doi: 
-  
+  doi:
+
 - title: "Evaluating Research Grade Bioimpedance Hardware using Textile Electrodes for Long-term Fluid Status Monitoring"
   image: sock.png
   description: "Human calf bioimpedance can be a useful for diagnostics and monitoring in conditions such as congestive heart failure. We prototype a fabric sock to mimic a printed circuit board and electronically connect to the calf; the sock consists of layers of conductive and insulating fabric connected by metallic snaps that act as vias."
@@ -39,11 +39,10 @@
   code: 0
   data: 0
   highlight: 1
-  news1: 
+  news1:
   news2:
-  doi: 10.3389/felec.2021.7624  
-  
-  
+  doi: 10.3389/felec.2021.7624
+
 - title: "HYPPO: A Surrogate-Based Multi-Level Parallelism Tool for Hyperparameter Optimization"
   image: hyppo.jpg
   description: What are the best hyperparameters (e.g. batch size, training rate, network depth) for a neural network? We would like to optimize these hyperparameters, but obtaining the derivatives for a gradient-based search is difficult. Thus, we estimate surrogate models of the underlying function relating the hyperparameters to figure of merit. Using forward function calls, we improve this surrogate function until our compute budget runs out. We validate HYPPO for different use cases, including sparse x-ray computed tomography.
@@ -58,7 +57,7 @@
   news1: See code documentation [here](https://hpo-uq.gitlab.io/hyppo/).
   news2:
   doi: 10.1109/MLHPC54614.2021.00013
-  
+
 - title: "Ultraefficient thermophotovoltaic power conversion by band-edge spectral filtering"
   image: pnas1903001116.jpg
   description: Thermophotovoltaics (TPV) convert radiative heat to electricity with photovoltaics cells. This is a generalization of solar photovoltaics, which convert the radiation of the sun to electricity. TPV has the potential for high-efficiency electrical power generation from the combustion of fuel. TPV can also be used for converting waste heat or stored thermal energy to electricity. We achieved a record 28.8% efficiency of heat to electricity conversion by using photovoltaic cells with high back reflectivity.
@@ -70,12 +69,12 @@
   code: 0
   data: 0
   highlight: 1
-  news1: 
+  news1:
   news2:
   doi: 10.1073/pnas.1903001116
-  
+
 - title: "Deep Learned Optical Multiplexing for Multi-Focal Plane Microscopy"
-  image: 
+  image:
   description: ""
   authors: Yi Fei Cheng, Ziad Sabry, Megan Strachan, Skyler Cornell, Jake Chanenson, Eva-Maria S. Collins, Vidya Ganapati
   link:
@@ -85,10 +84,10 @@
   code: 0
   data: 0
   highlight: 0
-  news1: 
+  news1:
   news2:
   doi:
-  
+
 - title: "Illumination pattern design with deep learning for single-shot Fourier ptychographic microscopy"
   image: Cheng2019.jpg
   description: An experimental validation of the methods proposed and tested in simulation in [*Robey and Ganapati*](https://doi.org/10.1364/OE.26.031333).
@@ -100,10 +99,10 @@
   code: 0
   data: 0
   highlight: 1
-  news1: 
+  news1:
   news2:
   doi: 10.1364/OE.27.000644
-  
+
 - title: "Optimal physical preprocessing for example-based super-resolution"
   image: LED_array_microscope.png
   description: Computational imaging concerns the joint design of physical hardware with image post-processing algorithms. The data recorded by the image sensor may be garbled, but as long as it contains the necessary information, the final image can be reconstructed with image post-processing. The advantages of computational imaging are reduced hardware costs and the possible recovery of quantities difficult to image directly, such as depth and the phase of light. We optimize the end-to-end computational imaging pipeline with deep learning, in order to surpass existing imaging tradeoffs among speed, resolution, and field-of-view.
@@ -115,12 +114,12 @@
   code: 0
   data: 0
   highlight: 1
-  news1: 
+  news1:
   news2:
   doi: 10.1364/OE.26.031333
 
 - title: "Ultra-Efficient Thermophotovoltaics Exploiting Spectral Filtering by the Photovoltaic Band-Edge"
-  image: 
+  image:
   description: Theoretical work that led to a record breaking thermophotovoltaic cell, see [*Omair et al.*](https://www.pnas.org/doi/10.1073/pnas.1903001116)
   authors: Vidya Ganapati, T. Patrick Xiao, Eli Yablonovitch
   link:
@@ -130,12 +129,12 @@
   code: 0
   data: 0
   highlight: 0
-  news1: 
+  news1:
   news2:
   doi:
-  
- - title: "The Voltage Boost Enabled by Luminescence Extraction in Solar Cells"
-  image: 
+
+- title: "The Voltage Boost Enabled by Luminescence Extraction in Solar Cells"
+  image:
   description: ""
   authors: Vidya Ganapati, Myles A. Steiner, Eli Yablonovitch
   link:
@@ -145,10 +144,10 @@
   code: 0
   data: 0
   highlight: 0
-  news1: 
-  news2: 
+  news1:
+  news2:
   doi: 10.1109/JPHOTOV.2016.2547580
-  
+
 - title: "Air Gaps as Intermediate Selective Reflectors to Reach Theoretical Efficiency Limits of Multibandgap Solar Cells"
   image: SolarCellTheoryFigure.png
   description: We proposed low-index intermediate "mirrors" to increase the efficiency of multi-bandgap solar cells. This theoretical result was validated with a 38.8% efficiency 4-bandgap solar cell developed at the National Renewable Energy Laboratory, setting the efficiency record for flat-plate solar cells.
@@ -160,12 +159,12 @@
   code: 0
   data: 0
   highlight: 1
-  news1: 
-  news2: 
+  news1:
+  news2:
   doi: 10.1109/JPHOTOV.2014.2361013
-  
+
 - title: "Single spherical mirror optic for extreme ultraviolet lithography enabled by inverse lithography technology"
-  image: 
+  image:
   description: ""
   authors: Gregg Scranton, Samarth Bhargava, Vidya Ganapati, Eli Yablonovitch
   link:
@@ -175,10 +174,10 @@
   code: 0
   data: 0
   highlight: 0
-  news1: 
-  news2: 
+  news1:
+  news2:
   doi: 10.1364/OE.22.025027
-  
+
 - title: "Light Trapping Textures Designed by Electromagnetic Optimization for Subwavelength Thick Solar Cells"
   image: ieee_jpv_light_trapping.jpg
   description: Solar cells are routinely textured in order to increase light absorption and efficiency. The benefits of texturing are generally evaluated using ray optics approximations. These approximations fail when the solar cell thickness is on the order of the wavelength of light. We use inverse design and shape calculus to optimize surface textures for subwavelength-thick solar cells. We show that with optimized designs we can approach ray-optics limits for these thin cells.
@@ -190,12 +189,12 @@
   code: 0
   data: 0
   highlight: 1
-  news1: 
-  news2: 
+  news1:
+  news2:
   doi: 10.1109/JPHOTOV.2013.2280340
-  
+
 - title: "Seeding of Silicon Wire Growth by Out-Diffused Metal Precipitates"
-  image: 
+  image:
   description: ""
   authors: Vidya Ganapati, David P. Fenning, Mariana I. Bertoni, Chito E. Kendrick, Alexandria E. Fecych, Joan M. Redwing, Tonio Buonassisi
   link:
@@ -208,9 +207,9 @@
   news1: [MIT News](https://news.mit.edu/2011/silicon-microwires-0204)
   news2:
   doi: 10.1002/smll.201002250
-  
+
 - title: "Infrared birefringence imaging of residual stress and bulk defects in multicrystalline silicon"
-  image: 
+  image:
   description: ""
   authors: Vidya Ganapati, Stephan Schoenfelder, Sergio Castellanos, Sebastian Oener, Ringo Koepge, Aaron Sampson, Matthew A. Marcus, Barry Lai, Humphrey Morhenn, Giso Hahn, Joerg Bagdahn, Tonio Buonassisi
   link:
@@ -220,6 +219,6 @@
   code: 0
   data: 0
   highlight: 0
-  news1: 
+  news1:
   news2:
   doi: 10.1063/1.3468404
