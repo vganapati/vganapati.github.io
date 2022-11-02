@@ -57,3 +57,33 @@
   news1: See code documentation [here](https://hpo-uq.gitlab.io/hyppo/).
   news2:
   doi: 10.1109/MLHPC54614.2021.00013
+
+- title: "Ultraefficient thermophotovoltaic power conversion by band-edge spectral filtering"
+  image: pnas1903001116.jpg
+  description: Thermophotovoltaics (TPV) convert radiative heat to electricity with photovoltaics cells. This is a generalization of solar photovoltaics, which convert the radiation of the sun to electricity. TPV has the potential for high-efficiency electrical power generation from the combustion of fuel. TPV can also be used for converting waste heat or stored thermal energy to electricity. We achieved a record 28.8% efficiency of heat to electricity conversion by using photovoltaic cells with high back reflectivity.
+  authors: Zunaid Omair, Gregg Scranton, Luis M. Pazos-Outón, T. Patrick Xiao, Myles A. Steiner, Vidya Ganapati, Per F. Peterson, John Holzrichter, Harry Atwater, Eli Yablonovitch
+  link:
+    url: https://www.pnas.org/doi/10.1073/pnas.1903001116
+    display: Proceedings of the National Academy of Sciences (2019)
+  pdf: pnas1903001116.pdf
+  code: 0
+  data: 0
+  highlight: 1
+  news1:
+  news2:
+  doi: 10.1073/pnas.1903001116
+
+- title: "Deep Learned Optical Multiplexing for Multi-Focal Plane Microscopy"
+  image:
+  description: ""
+  authors: Yi Fei Cheng, Ziad Sabry, Megan Strachan, Skyler Cornell, Jake Chanenson, Eva-Maria S. Collins, Vidya Ganapati
+  link:
+    url: https://arxiv.org/abs/1907.01528
+    display: arXiv:1907.01528
+  pdf: multi_focal_plane.pdf
+  code: 0
+  data: 0
+  highlight: 0
+  news1:
+  news2:
+  doi:
