@@ -32,14 +32,17 @@ permalink: /publications/
   <p><strong>{{ publi.link.display }}</strong></p>
   <p>| <a href="{{ publi.link.url }}">Link</a> | 
   <a href="{{ site.url }}{{ site.baseurl }}/paperpdfs/{{ publi.pdf }}">PDF</a> |
-  {% if publi.code == 1 %}
+  {% if publi.code == 0 %}
+  {% else %}
    <a href="{{ publi.code }}">Code</a> |
    {% endif %}
-   {% if publi.data == 1 %}
-   <a href="{{ publi.data}}">Data</a> |</p>
+   {% if publi.data == 0 %}
+   {% else %}
+   <a href="{{ publi.data}}">Data</a> |
    {% endif %}
+   </p>
   <p class="text-danger"><strong> {{ publi.news1 }}</strong></p>
-  <p> {{ publi.news2 }}</p>
+  <p>{{ publi.news2 }}</p>
  </div>
 </div>
 
