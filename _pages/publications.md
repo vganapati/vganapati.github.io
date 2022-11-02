@@ -29,11 +29,15 @@ permalink: /publications/
   <img src="{{ site.url }}{{ site.baseurl }}/images/pubpic/{{ publi.image }}" class="img-responsive" width="33%" style="float: left" />
   <p>{{ publi.description }}</p>
   <p><em>{{ publi.authors }}</em></p>
-  <p><strong><a href="{{ publi.link.url }}">{{ publi.link.display }}</a></strong></p>
-  <p><a href="{{ publi.link.url }}">| Link</a>
-  <a href="{{ site.url }}{{ site.baseurl }}/paperpdfs/{{ publi.pdf }}">| PDF </a>
-  <a href="{{ publi.code }}">| Code </a>
-  <a href="{{ publi.data}}">| Data </a></p>|
+  <p><strong>{{ publi.link.display }}</strong></p>
+  <p>| <a href="{{ publi.link.url }}">Link</a> | 
+  <a href="{{ site.url }}{{ site.baseurl }}/paperpdfs/{{ publi.pdf }}">PDF</a> |
+  {% if publi.code == 1 %}
+   <a href="{{ publi.code }}">Code</a> |
+   {% endif %}
+   {% if publi.data == 1 %}
+   <a href="{{ publi.data}}">Data</a> |</p>
+   {% endif %}
   <p class="text-danger"><strong> {{ publi.news1 }}</strong></p>
   <p> {{ publi.news2 }}</p>
  </div>
