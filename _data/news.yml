@@ -1,32 +1,35 @@
 - date: October 2022
-  headline: "NeurIPS 2022 Machine Learning and the Physical Sciences Workshop paper <a href='link_tba'>A Self-Supervised Approach to Reconstruction in Sparse X-Ray Computed Tomography</a> accepted, co-authored by Rey, Minh, and Judith."
+  headline: "NeurIPS 2022 Machine Learning and the Physical Sciences Workshop paper <a href='https://arxiv.org/abs/2211.00002'>A Self-Supervised Approach to Reconstruction in Sparse X-Ray Computed Tomography</a> accepted, co-authored by Rey, Minh, and Judith."
 
 - date: October 2022
-  headline: "NeurIPS 2022 AI for Science Workshop paper <a href='https://nips.cc/Conferences/2022/ScheduleMultitrack?event=50019'>Data-Driven Computational Imaging for Scientific Discovery</a> accepted, co-authored by Yolanda and Andrew."
+  headline: "NeurIPS 2022 AI for Science Workshop paper <a href='https://arxiv.org/abs/2210.16709'>Data-Driven Computational Imaging for Scientific Discovery</a> accepted, co-authored by Yolanda and Andrew."
 
 - date: September 2022
-  headline: "Vidya on leave from Swarthmore to design machine learning algorithms for time-resolved serial femtosecond crystallography in the Sauter Group at Lawrence Berkeley National Laboratory. Swarthmore undergraduates interested in research opportunities should get in touch!"
+  headline: "Vidya on leave from Swarthmore to design machine learning algorithms for time-resolved serial femtosecond crystallography in the <a href='https://biosciences.lbl.gov/profiles/nicholas-sauter/'>Sauter Group</a> at Lawrence Berkeley National Laboratory. Swarthmore undergraduates interested in research opportunities should get in touch!"
 
 - date: June 2022
-  headline: "Minh, Judith, Rey, and Vidya head to Berkeley, CA for the summer to collaborate with scientists at the Lawrence Berkeley National Laboratory on low-dose micro-computed tomography reconstruction algorithms at the Advanced Light Source."
-  
+  headline: "Minh, Judith, Rey, and Vidya head to Berkeley, CA for the summer to collaborate with scientists at the <a href='https://www.lbl.gov/'>Lawrence Berkeley National Laboratory</a> on low-dose micro-computed tomography reconstruction algorithms at the Advanced Light Source."
+
 - date: May 2022
-  headline: "Yolanda and Andrew graduate with college honors and the McCabe Award, the highest distinction conferred by Swarthmore Engineering."
-  
+  headline: "Yolanda and Andrew graduate with college honors and the <a href='https://www.swarthmore.edu/commencement-2022/special-awards#mccabe'>McCabe Award</a>, the highest distinction conferred by Swarthmore Engineering."
+
 - date: April 2022
   headline: "Vidya awarded IEEE Philadelphia Section Young Electrical Engineer of the Year."
-  
+
 - date: April 2022
   headline: "Lab awarded <a href='https://www.swarthmore.edu/sponsored-programs/full-list-faculty-grants'> AAUW Research Publication Grant</a>."
 
 - date: April 2022
-  headline: "Vidya appointed Visiting Scientist at Janelia Research Campus to collaborate on improving the resolution of x-ray holographic nanotomography for nervous tissue imaging."
+  headline: "Vidya appointed Visiting Scientist at <a href='https://www.janelia.org/'>Janelia Research Campus</a> to collaborate on improving the resolution of x-ray holographic nanotomography for nervous tissue imaging."
 
 - date: January 2022
   headline: "Our collaborative work with the Delano Group <a href='https://doi.org/10.3389/felec.2021.762442'>Evaluating Research Grade Bioimpedance Hardware using Textile Electrodes for Long-term Fluid Status Monitoring</a> is published in Frontiers in Electronics"
 
 - date: October 2021
   headline: "A collaborative work with Lawrence Berkeley National Laboratory <a href='https://arxiv.org/abs/2110.01698'>HYPPO: A Surrogate-Based Multi-Level Parallelism Tool for Hyperparameter Optimization</a> is up on arXiv."
+
+- date: July 2021
+  headline: "Michelle, Minh, and Judith featured in a <a href='https://blogs.swarthmore.edu/its/2021/07/23/summer-research-computational-sewing/'>blog post</a> about their summer project in computational sewing."
 
 - date: August 2019
   headline: "Megan Strachan, a Velay Fellow, explains her summer undergraduate research in this informative <a href='https://www.youtube.com/watch?v=z2GMZSJ7k00'>video</a>."
@@ -48,7 +51,7 @@
 
 - date: July 2018
   headline: "Our paper <a href='https://arxiv.org/abs/1807.04813'>Optimal Physical Preprocessing for Example-Based Super-Resolution</a> is posted on arXiv."
-  
+
 - date: June 2018
   headline: "Vidya presents at an invited talk on 'Deep Learning for Imaging System Design' at the Computational Optical Sensing and Imaging meeting in Orlando, Florida."
 

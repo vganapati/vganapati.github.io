@@ -6,7 +6,7 @@ sitemap: false
 permalink: /vacancies
 ---
 
-# Open positions
+# Open Positions
 
 We are always looking for Swarthmore undergraduates to join us, from freshman to seniors. It is never too early to get involved in research! You will have the chance to work on cutting-edge projects, often at the interface of hardware design and novel computer algorithms. Many past undergraduates have authored papers published in leading journals and conferences in the field. You are encouraged to take E19: Numerical Methods for Engineers, E30: Computational Optics, and/or E56: Modeling and Optimization either before or while conducting research in the lab.
 

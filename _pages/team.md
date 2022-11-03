@@ -8,7 +8,7 @@ permalink: /team/
 
 # Group Members
 
-## Staff
+## Faculty
 {% assign number_printed = 0 %}
 {% for member in site.data.team_members %}
 
@@ -71,7 +71,9 @@ permalink: /team/
 {% endif %}
 
 
-## Undergraduate Students
+## Current Students
+
+
 {% assign number_printed = 0 %}
 {% for member in site.data.students %}
 
@@ -82,31 +84,10 @@ permalink: /team/
 {% endif %}
 
 <div class="col-sm-6 clearfix">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="25%" style="float: left" />
   <h4>{{ member.name }}</h4>
-  <i>{{ member.info }} <!-- <br>email: <{{ member.email }}></i> -->
+  <i>Major: {{ member.major }} <br> Year: {{ member.class }}</i>
   <ul style="overflow: hidden">
-
-  {% if member.number_educ == 1 %}
-  <li> {{ member.education1 }} </li>
-  {% endif %}
-
-  {% if member.number_educ == 2 %}
-  <li> {{ member.education1 }} </li>
-  <li> {{ member.education2 }} </li>
-  {% endif %}
-
-  {% if member.number_educ == 3 %}
-  <li> {{ member.education1 }} </li>
-  <li> {{ member.education2 }} </li>
-  <li> {{ member.education3 }} </li>
-  {% endif %}
-
-  {% if member.number_educ == 4 %}
-  <li> {{ member.education1 }} </li>
-  <li> {{ member.education2 }} </li>
-  <li> {{ member.education3 }} </li>
-  <li> {{ member.education4 }} </li>
-  {% endif %}
 
   </ul>
 </div>
@@ -125,7 +106,7 @@ permalink: /team/
 {% endif %}
 
 
-## Alumni
+## Former Students
 
 {% assign number_printed = 0 %}
 {% for member in site.data.alumni_members %}
@@ -139,7 +120,7 @@ permalink: /team/
 <div class="col-sm-6 clearfix">
   <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="25%" style="float: left" />
   <h4>{{ member.name }}</h4>
-  <i>{{ member.duration }} <br> Role: {{ member.info }}</i>
+  <i>Major: {{ member.major }} <br> Year: {{ member.year }} <br> Current: {{ member.current }}</i>
   <ul style="overflow: hidden">
 
   </ul>

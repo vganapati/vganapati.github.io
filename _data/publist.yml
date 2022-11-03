@@ -3,7 +3,7 @@
   description: This work creates a novel method for data-driven reconstruction in computational imaging, when no ground truth training dataset is available. Light-emitting diode (LED) array microscopy, a modality that allows visualization of transparent objects in two and three dimensions with high resolution and field-of-view, is used as an illustrative example
   authors: Andrew Olsen, Yolanda Hu, Vidya Ganapati
   link:
-    url: https://nips.cc/Conferences/2022/ScheduleMultitrack?event=50019
+    url: https://arxiv.org/abs/2210.16709
     display:  NeurIPS 2022 AI for Science Workshop
   pdf: AI4Science.pdf
   code: https://github.com/vganapati/LED_PVAE
@@ -18,7 +18,7 @@
   description: Computed tomography allows for the elucidation of 3-dimensional internal structure by the attenuation of x-rays through an object at different rotations relative to the beam. However, the x-ray beam can damage the sample, necessitating the development of sparse x-ray tomography that only requires measurements at a low number of rotation angles. This work develops and validates a self-supervised probabilistic deep learning technique for object reconstruction in this sparse regime.
   authors: Rey Mendoza, Minh Nguyen, Judith Weng Zhu, Talita Perciano, Vincent Dumont, Juliane Mueller, Vidya Ganapati
   link:
-    url: TBA
+    url: https://arxiv.org/abs/2211.00002
     display:  NeurIPS 2022 Machine Learning and the Physical Sciences Workshop
   pdf: neurips_2022.pdf
   code: https://github.com/vganapati/CT_PVAE

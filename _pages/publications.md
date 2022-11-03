@@ -30,16 +30,8 @@ permalink: /publications/
   <p>{{ publi.description }}</p>
   <p><em>{{ publi.authors }}</em></p>
   <p><strong>{{ publi.link.display }}</strong></p>
-  <p>| <a href="{{ publi.link.url }}">Link</a> | 
-  <a href="{{ site.url }}{{ site.baseurl }}/paperpdfs/{{ publi.pdf }}">PDF</a> |
-  {% if publi.code == 0 %}
-  {% else %}
-   <a href="{{ publi.code }}">Code</a> |
-   {% endif %}
-   {% if publi.data == 0 %}
-   {% else %}
-   <a href="{{ publi.data}}">Data</a> |
-   {% endif %}
+  <p>| <a href="{{ publi.link.url }}">Link</a> |
+  <a href="{{ site.url }}{{ site.baseurl }}/paperpdfs/{{ publi.pdf }}">PDF</a> | {% if publi.code == 0 %}{% else %}<a href="{{ publi.code }}">Code</a> | {% endif %}{% if publi.data == 0 %}{% else %}<a href="{{ publi.data}}">Data</a> |{% endif %}
    </p>
   <p class="text-danger"><strong> {{ publi.news1 }}</strong></p>
   <p>{{ publi.news2 }}</p>
@@ -64,9 +56,15 @@ permalink: /publications/
 
 
 ## Patents
-<em>Milan P Allan, S Gröblacher, RA Norte, M Leeuwenhoek</em><br />Novel atomic force microscopy probes with phononic crystals<br /> PCT/NL20-20/050797 (2020)
 
-<em>Milan P Allan</em><br /> Methods of manufacturing superconductor and phononic elements <br /> <a href="https://patents.google.com/patent/US10439125B2/en?inventor=Milan+ALLAN&oq=inventor:(Milan+ALLAN)">US10439125B2 (2016)</a>
+{% for publi in site.data.patentlist %}
+
+  {{ publi.title }} <br />
+  <em>{{ publi.authors }} </em><br /><a href="{{ publi.link.url }}">{{ publi.link.display (publi.year) }}</a><br />
+  <a href="{{ site.url }}{{ site.baseurl }}/paperpdfs/{{ publi.pdf }}">PDF</a><br />
+
+{% endfor %}
+
 
 ## Full List of publications
 
