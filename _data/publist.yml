@@ -192,3 +192,33 @@
   news1:
   news2:
   doi: 10.1109/JPHOTOV.2013.2280340
+
+- title: "Seeding of Silicon Wire Growth by Out-Diffused Metal Precipitates"
+  image:
+  description: ""
+  authors: Vidya Ganapati, David P. Fenning, Mariana I. Bertoni, Chito E. Kendrick, Alexandria E. Fecych, Joan M. Redwing, Tonio Buonassisi
+  link:
+    url: https://onlinelibrary.wiley.com/doi/full/10.1002/smll.201002250
+    display: Small (2011)
+  pdf: Small.pdf
+  code: 0
+  data: 0
+  highlight: 0
+  news1: [MIT News](https://news.mit.edu/2011/silicon-microwires-0204)
+  news2:
+  doi: 10.1002/smll.201002250
+
+- title: "Infrared birefringence imaging of residual stress and bulk defects in multicrystalline silicon"
+  image:
+  description: ""
+  authors: Vidya Ganapati, Stephan Schoenfelder, Sergio Castellanos, Sebastian Oener, Ringo Koepge, Aaron Sampson, Matthew A. Marcus, Barry Lai, Humphrey Morhenn, Giso Hahn, Joerg Bagdahn, Tonio Buonassisi
+  link:
+    url: https://aip.scitation.org/doi/10.1063/1.3468404
+    display: Journal of Applied Physics (2010)
+  pdf: JournalAppliedPhys.pdf
+  code: 0
+  data: 0
+  highlight: 0
+  news1:
+  news2:
+  doi: 10.1063/1.3468404
