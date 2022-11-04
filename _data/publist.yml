@@ -204,8 +204,8 @@
   code: 0
   data: 0
   highlight: 0
-  news1: [MIT News](https://news.mit.edu/2011/silicon-microwires-0204)
-  news2:
+  news1:
+  news2: Featured in [MIT News](https://news.mit.edu/2011/silicon-microwires-0204).
   doi: 10.1002/smll.201002250
 
 - title: "Infrared birefringence imaging of residual stress and bulk defects in multicrystalline silicon"
