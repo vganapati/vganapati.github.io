@@ -3,7 +3,7 @@ title: "Ganapati Lab - Other"
 layout: textlay
 excerpt: "Ganapati Lab -- Other"
 sitemap: false
-permalink: /research/
+permalink: /other/
 ---
 # Teaching
 
