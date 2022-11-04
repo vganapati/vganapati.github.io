@@ -132,3 +132,63 @@
   news1:
   news2:
   doi:
+
+- title: "The Voltage Boost Enabled by Luminescence Extraction in Solar Cells"
+  image:
+  description: ""
+  authors: Vidya Ganapati, Myles A. Steiner, Eli Yablonovitch
+  link:
+    url: https://ieeexplore.ieee.org/document/7454706
+    display: IEEE Journal of Photovoltaics (2016)
+  pdf: VoltageBoost.pdf
+  code: 0
+  data: 0
+  highlight: 0
+  news1:
+  news2:
+  doi: 10.1109/JPHOTOV.2016.2547580
+
+- title: "Air Gaps as Intermediate Selective Reflectors to Reach Theoretical Efficiency Limits of Multibandgap Solar Cells"
+  image: SolarCellTheoryFigure.png
+  description: We proposed low-index intermediate "mirrors" to increase the efficiency of multi-bandgap solar cells. This theoretical result was validated with a 38.8% efficiency 4-bandgap solar cell developed at the National Renewable Energy Laboratory, setting the efficiency record for flat-plate solar cells.
+  authors: Vidya Ganapati, Chi-Sing Ho, Eli Yablonovitch
+  link:
+    url: https://ieeexplore.ieee.org/document/6924719
+    display:  IEEE Journal of Photovoltaics (2014)
+  pdf: ganapati_jpv_2014.pdf
+  code: 0
+  data: 0
+  highlight: 1
+  news1:
+  news2:
+  doi: 10.1109/JPHOTOV.2014.2361013
+
+- title: "Single spherical mirror optic for extreme ultraviolet lithography enabled by inverse lithography technology"
+  image:
+  description: ""
+  authors: Gregg Scranton, Samarth Bhargava, Vidya Ganapati, Eli Yablonovitch
+  link:
+    url: https://opg.optica.org/oe/fulltext.cfm?uri=oe-22-21-25027&id=301978
+    display: Optics Express (2014)
+  pdf: scranton_EUV.pdf
+  code: 0
+  data: 0
+  highlight: 0
+  news1:
+  news2:
+  doi: 10.1364/OE.22.025027
+
+- title: "Light Trapping Textures Designed by Electromagnetic Optimization for Subwavelength Thick Solar Cells"
+  image: ieee_jpv_light_trapping.jpg
+  description: Solar cells are routinely textured in order to increase light absorption and efficiency. The benefits of texturing are generally evaluated using ray optics approximations. These approximations fail when the solar cell thickness is on the order of the wavelength of light. We use inverse design and shape calculus to optimize surface textures for subwavelength-thick solar cells. We show that with optimized designs we can approach ray-optics limits for these thin cells.
+  authors: Vidya Ganapati, Owen D. Miller, Eli Yablonovitch
+  link:
+    url: https://ieeexplore.ieee.org/document/6601630
+    display: IEEE Journal of Photovoltaics (2014)
+  pdf: ieee_jpv_light_trapping.pdf
+  code: 0
+  data: 0
+  highlight: 1
+  news1:
+  news2:
+  doi: 10.1109/JPHOTOV.2013.2280340
