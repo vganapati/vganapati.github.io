@@ -72,5 +72,6 @@ permalink: /publications/
 
   {{ publi.title }} <br />
   <em>{{ publi.authors }} </em><br /><a href="{{ publi.link.url }}">{{ publi.link.display }}</a>
+  <a href="{{ site.url }}{{ site.baseurl }}/paperpdfs/{{ publi.pdf }}">PDF</a><br />
 
 {% endfor %}
