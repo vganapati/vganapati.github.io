@@ -120,7 +120,7 @@ permalink: /team/
 <div class="col-sm-6 clearfix">
   <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="25%" style="float: left" />
   <h4>{{ member.name }}</h4>
-  <i>Major: {{ member.major }} <br> Year: {{ member.year }} <br> Current: {{ member.current }}</i>
+  <i>Major: {{ member.major }} <br> Year: {{ member.class }} <br> Current: {{ member.current }}</i>
   <ul style="overflow: hidden">
 
   </ul>
