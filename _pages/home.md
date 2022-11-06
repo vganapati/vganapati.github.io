@@ -6,7 +6,7 @@ sitemap: false
 permalink: /
 ---
 
-We are a research group in the Swarthmore College Engineering Department. Our focus is computational imaging systems such as computed tomography (CT) and LED array microscopy, in which hardware and software are co-designed to enable enhanced capability such as 3D imaging. However, these advanced features come at the cost of long acquisition times. In our group, we create data-driven design methods for computational imaging systems to improve temporal resolution, enabling scientific discovery in previously inaccessible regimes.
+We are a research group in the Swarthmore College Engineering Department. Our focus is creating physics-based machine learning algorithms for computational imaging systems. Examples of computational imaging include computed tomography (CT) and LED array microscopy, where hardware and software are co-designed to enable enhanced capability such as 3D imaging. However, these advanced features come at the cost of long acquisition times. In our group, we create data-driven design methods for computational imaging systems to improve temporal resolution, enabling scientific discovery in previously inaccessible regimes.
 
 <figure>
 <img src="{{ site.url }}{{ site.baseurl }}/images/slider/190718_summer_g.jpg" alt="Students in lab" width="100%">
