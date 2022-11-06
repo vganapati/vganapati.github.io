@@ -60,7 +60,8 @@ permalink: /publications/
 {% for publi in site.data.patentlist %}
 
   {{ publi.title }} <br />
-  <em>{{ publi.authors }} </em><br /><a href="{{ publi.link.url }}">{{ publi.link.display (publi.year) }}</a><br />
+  <em>{{ publi.authors }} </em><br /><strong>{{ publi.link.display (publi.year) }}</strong><br />
+  <br /><a href="{{ publi.link.url }}">Link</a> |
   <a href="{{ site.url }}{{ site.baseurl }}/paperpdfs/{{ publi.pdf }}">PDF</a><br />
 
 {% endfor %}
@@ -71,7 +72,8 @@ permalink: /publications/
 {% for publi in site.data.publist %}
 
   {{ publi.title }} <br />
-  <em>{{ publi.authors }} </em><br /><a href="{{ publi.link.url }}">{{ publi.link.display }}</a>
+  <em>{{ publi.authors }} </em><br /><strong>{{ publi.link.display }}</strong>
+  <br /><a href="{{ publi.link.url }}">Link</a> |
   <a href="{{ site.url }}{{ site.baseurl }}/paperpdfs/{{ publi.pdf }}">PDF</a><br />
 
 {% endfor %}
