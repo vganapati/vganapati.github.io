@@ -72,6 +72,6 @@ permalink: /publications/
 
   {{ publi.title }} <br />
   <em>{{ publi.authors }} </em><br /><strong>{{ publi.link.display }}</strong><br />| <a href="{{ publi.link.url }}">Link</a> |
-  <a href="{{ site.url }}{{ site.baseurl }}/paperpdfs/{{ publi.pdf }}">PDF</a> |<br /> {% if publi.code == 0 %}{% else %}<a href="{{ publi.code }}">Code</a> | {% endif %}{% if publi.data == 0 %}{% else %}<a href="{{ publi.data}}">Data</a> |{% endif %}
+  <a href="{{ site.url }}{{ site.baseurl }}/paperpdfs/{{ publi.pdf }}">PDF</a> | {% if publi.code == 0 %}{% else %}<a href="{{ publi.code }}">Code</a> | {% endif %}{% if publi.data == 0 %}{% else %}<a href="{{ publi.data}}">Data</a> |{% endif %}
 
 {% endfor %}

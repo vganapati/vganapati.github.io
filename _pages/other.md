@@ -26,13 +26,13 @@ Our lab is involved in various outreach efforts to underrepresented groups in en
 We've played with waveguides created from Jell-O:
 
 <figure>
-<img src="{{ site.url }}{{ site.baseurl }}/images/otherpic/Jello_waveguides.jpg" width="50%">
+<img src="{{ site.url }}{{ site.baseurl }}/images/otherpic/Jello_waveguides.jpg" width="100%">
 </figure>
 
 And participated in panels:
 
 <figure>
-<img src="{{ site.url }}{{ site.baseurl }}/images/otherpic/techmakers.jpg" width="50%">
+<img src="{{ site.url }}{{ site.baseurl }}/images/otherpic/techmakers.jpg" width="100%">
 </figure>
 
 I host an annual workshop at Swarthmore College to help students apply to summer research opportunities. Please email me for more information if you are a current Swarthmore undergraduate!
@@ -40,7 +40,7 @@ I host an annual workshop at Swarthmore College to help students apply to summer
 I taught in the [Girls Who Code](https://girlswhocode.com) Summer Immersion Program in summer 2015, an intensive 7-week computer science course for 20 rising high school junior and senior girls. We were hosted by [Square](https://squareup.com/). One of the final projects completed by the girls include a game called Boba Buddies:
 
 <figure>
-<img src="{{ site.url }}{{ site.baseurl }}/images/otherpic/bobabuddies.jpg" width="50%">
+<img src="{{ site.url }}{{ site.baseurl }}/images/otherpic/bobabuddies.jpg" width="100%">
 </figure>
 
 # Craft
