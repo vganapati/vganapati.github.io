@@ -18,7 +18,7 @@ Our research is interdisciplinary, drawing from physics, optimization, machine l
 <img src="{{ site.url }}{{ site.baseurl }}/images/slider/2018teampic.jpg" alt="2018 team picture" width="100%">
 </figure>
 
- **We are always looking for motivated Swarthmore undergraduates to join our team!** [(more info)]({{ site.url }}{{ site.baseurl }}/vacancies) **!**
+ **We are always looking for motivated Swarthmore undergraduates to join our team!** [(more info)]({{ site.url }}{{ site.baseurl }}/vacancies)
 
 
 We are grateful for support from [Swarthmore College](https://www.swarthmore.edu), the [U.S. Department of Energy's Office of Science](https://www.energy.gov/science/office-science), [Janelia Research Campus](https://www.janelia.org), and the [American Association for University Women](https://www.aauw.org).
