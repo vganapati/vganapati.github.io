@@ -9,13 +9,13 @@ permalink: /
 We are a research group in the Swarthmore College Engineering Department. Our focus is computational imaging systems such as computed tomography (CT) and LED array microscopy, in which hardware and software are co-designed to enable enhanced capability such as 3D imaging. However, these advanced features come at the cost of long acquisition times. In our group, we create data-driven design methods for computational imaging systems to improve temporal resolution, enabling scientific discovery in previously inaccessible regimes.
 
 <figure>
-<img src="{{ site.url }}{{ site.baseurl }}/images/slider/190718_summer_g.jpg" alt="Students in lab" width="75%">
+<img src="{{ site.url }}{{ site.baseurl }}/images/slider/190718_summer_g.jpg" alt="Students in lab" width="100%">
 </figure>
 
 Our research is interdisciplinary, drawing from physics, optimization, machine learning, and signal processing. We collaborate with the Swarthmore College Biology Department, co-located with us in Singer Hall, using Fourier ptychography to visualize microscopic phase objects such as [planarians](https://www.swarthmore.edu/profile/eva-maria-s-collins), [sea urchins](https://www.kchanlab.net), and [human cells](https://www.dawncaronelab.org). We also collaborate with [Janelia Research Campus](https://www.janelia.org) on reconstruction methods for X-ray holographic nano-tomography and [Lawrence Berkeley National Laboratory](https://crd.lbl.gov) to improve micro-computed tomography.
 
 <figure>
-<img src="{{ site.url }}{{ site.baseurl }}/images/slider/2018teampic.jpg" alt="2018 team picture" width="75%">
+<img src="{{ site.url }}{{ site.baseurl }}/images/slider/2018teampic.jpg" alt="2018 team picture" width="100%">
 </figure>
 
  **We are always looking for motivated Swarthmore undergraduates to join our team!** [(more info)]({{ site.url }}{{ site.baseurl }}/vacancies) **!**
