@@ -23,10 +23,10 @@ permalink: /team/
   <h4>{{ member.name }}</h4>
   <i>{{ member.info }} <!--<br>email: <{{ member.email }}></i> -->
   <ul style="overflow: hidden">
-
   {% if member.number_educ == 1 %}
-  {{ member.education1 }} <br>
+  {{ member.education1 }}
   {% endif %}
+  </i>
 
   {% if member.number_educ == 2 %}
   {{ member.education1 }} <br>
