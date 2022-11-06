@@ -66,7 +66,7 @@ permalink: /publications/
 {% endfor %}
 
 
-## Full List of publications
+## Full List of Publications
 
 {% for publi in site.data.publist %}
 
