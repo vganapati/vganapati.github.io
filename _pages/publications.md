@@ -11,7 +11,7 @@ permalink: /publications/
 
 ## Highlights
 
-(For a full list of publications and patents see [below](#full-list-of-publications))
+(For a full list of publications and patents see [below](#patents))
 
 {% assign number_printed = 0 %}
 {% for publi in site.data.publist %}
