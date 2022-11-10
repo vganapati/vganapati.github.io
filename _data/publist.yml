@@ -16,7 +16,7 @@
 - title: "A Self-Supervised Approach to Reconstruction in Sparse X-Ray Computed Tomography"
   image: sinogram.png
   description: Computed tomography allows for the elucidation of 3-dimensional internal structure by the attenuation of x-rays through an object at different rotations relative to the beam. However, the x-ray beam can damage the sample, necessitating the development of sparse x-ray tomography that only requires measurements at a low number of rotation angles. This work develops and validates a self-supervised probabilistic deep learning technique for object reconstruction in this sparse regime.
-  authors: Rey Mendoza, Minh Nguyen, Judith Weng Zhu, Talita Perciano, Vincent Dumont, Juliane Mueller, Vidya Ganapati
+  authors: Rey Mendoza, Minh Nguyen, Judith Weng Zhu, Vincent Dumont, Talita Perciano, Juliane Mueller, Vidya Ganapati
   link:
     url: https://arxiv.org/abs/2211.00002
     display:  NeurIPS 2022 Machine Learning and the Physical Sciences Workshop
