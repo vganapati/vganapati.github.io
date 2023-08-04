@@ -12,7 +12,7 @@ We are a research group in the Swarthmore College Engineering Department. Our fo
 <img src="{{ site.url }}{{ site.baseurl }}/images/slider/190718_summer_g.jpg" alt="Students in lab" width="100%">
 </figure>
 
-Our research is interdisciplinary, drawing from physics, optimization, machine learning, and signal processing. We collaborate with the Swarthmore College Biology Department, co-located with us in Singer Hall, using Fourier ptychography to visualize microscopic phase objects such as [planarians](https://www.swarthmore.edu/profile/eva-maria-s-collins), [sea urchins](https://www.kchanlab.net), and [human cells](https://www.dawncaronelab.org). We also collaborate with [Janelia Research Campus](https://www.janelia.org) on reconstruction methods for X-ray holographic nano-tomography and [Lawrence Berkeley National Laboratory](https://crd.lbl.gov) to improve micro-computed tomography.
+Our research is interdisciplinary, drawing from physics, optimization, machine learning, and signal processing. We collaborate with the Swarthmore College Biology Department, co-located with us in Singer Hall, using Fourier ptychography to visualize microscopic phase objects such as [planarians](https://www.swarthmore.edu/profile/eva-maria-s-collins), [sea urchins](https://www.kchanlab.net), and [human cells](https://www.dawncaronelab.org). We also collaborate with [Lawrence Berkeley National Laboratory](https://crd.lbl.gov) to improve micro-computed tomography.
 
 <figure>
 <img src="{{ site.url }}{{ site.baseurl }}/images/slider/2018teampic.jpg" alt="2018 team picture" width="100%">
