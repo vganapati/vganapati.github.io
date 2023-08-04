@@ -121,8 +121,7 @@ permalink: /team/
   <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="25%" style="float: left" />
   <h4>{{ member.name }}</h4>
   <i>Major: {{ member.major }} <br> Year: {{ member.class }} 
-  {% if member.current == 0 %}{% else %}<br> Current: {{ member.current }}{% endif %}
-  </i>
+  {% if member.current == 0 %}<br></i>{% else %}<br> Current: {{ member.current }}</i>{% endif %}
   <ul style="overflow: hidden">
 
   </ul>
