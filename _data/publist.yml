@@ -5,7 +5,7 @@
   link:
     url: https://arxiv.org/abs/2307.01901
     display: ICML 2023 SynS & ML Workshop
-  pdf: ICML2023.pdf
+  pdf:
   code: https://github.com/gigantocypris/SPREAD
   data:
   highlight: 1
