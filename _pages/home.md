@@ -21,4 +21,4 @@ Our research is interdisciplinary, drawing from physics, optimization, machine l
  **We are always looking for motivated Swarthmore undergraduates to join our team!** [(more info)]({{ site.url }}{{ site.baseurl }}/vacancies)
 
 
-We are grateful for support from the [National Science Foundation CAREER](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2236796&HistoricalAwards=false), [Swarthmore College](https://www.swarthmore.edu), the [U.S. Department of Energy's Office of Science](https://www.energy.gov/science/office-science), [Janelia Research Campus](https://www.janelia.org), and the [American Association for University Women](https://www.aauw.org).
+We are grateful for support from the [National Science Foundation](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2236796&HistoricalAwards=false), [Swarthmore College](https://www.swarthmore.edu), the [U.S. Department of Energy's Office of Science](https://www.energy.gov/science/office-science), [Janelia Research Campus](https://www.janelia.org), and the [American Association for University Women](https://www.aauw.org).
