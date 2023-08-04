@@ -1,3 +1,27 @@
+- name: Rey Mendoza
+  photo: rey_photo.jpg
+  major: Engineering
+  class: 2023
+  current: University of Arizona
+  
+- name: Judith Weng Zhu
+  photo: judith.jpg
+  major: Engineering
+  class: 2023
+  current:
+  
+- name: Minh Nguyen
+  photo: minh.jpg
+  major: Engineering
+  class: 2023
+  current:
+
+- name: Michelle Zhuang
+  photo: michelle.png
+  major: Engineering
+  class: 2023
+  current: 
+
 - name: Leonora Blodgett
   photo: nora_2.jpg
   major: Engineering
@@ -32,13 +56,13 @@
   photo: AndrewOlsenPhoto.jpeg
   major: Engineering & Economics
   class: 2022
-  current: NERA Economic Consulting
+  current: Princeton University
 
 - name: Emma Ricci-De Lucca
   photo: EmmaRD.jpeg
   major: Engineering & French
   class: 2021
-  current: Duke University
+  current: Dartmouth College
 
 - name: Alex Robey
   photo: robey.PNG

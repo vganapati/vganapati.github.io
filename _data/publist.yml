@@ -1,3 +1,18 @@
+- title: "Self-Supervised Deep Learning for Model Correction in the Computational Crystallography Toolbox"
+  image: SPREAD.png
+  description: The Computational Crystallography Toolbox (CCTBX) is open-source software that allows for processing of crystallographic data, including from serial femtosecond crystallography (SFX), for macromolecular structure determination. We describe the potential impact of using self-supervised deep learning to correct the scientific model in CCTBX and provide uncertainty quantification. We describe open questions in algorithm development to help spur advances through dialog between crystallographers and machine learning researchers. 
+  authors: Vidya Ganapati, Daniel Tchon, Aaron S. Brewster, Nicholas K. Sauter
+  link:
+    url: https://arxiv.org/abs/2307.01901
+    display: ICML 2023 SynS & ML Workshop
+  pdf: ICML2023.pdf
+  code: https://github.com/gigantocypris/SPREAD
+  data:
+  highlight: 1
+  news1:
+  news2:
+  doi:
+
 - title: "Data-Driven Computational Imaging for Scientific Discovery"
   image: PVAE_frogblood.png
   description: This work creates a novel method for data-driven reconstruction in computational imaging, when no ground truth training dataset is available. Light-emitting diode (LED) array microscopy, a modality that allows visualization of transparent objects in two and three dimensions with high resolution and field-of-view, is used as an illustrative example. Future directions are outlined for making this method applicable to large-scale scientific problems.

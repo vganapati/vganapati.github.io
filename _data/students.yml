@@ -1,23 +1,17 @@
-- name: Rey Mendoza
-  photo: rey_photo.jpg
+- name: Hojune Kim
+  photo: hojune_kim.png
   number_educ: 1
   major: Engineering
-  class: 2023
+  class: 2025
   
-- name: Judith Weng Zhu
-  photo: judith.jpg
+- name: Gary Chen
+  photo: garychen.JPG
   number_educ: 2
   major: Engineering
-  class: 2023
+  class: 2025
   
-- name: Minh Nguyen
-  photo: minh.jpg
-  number_educ: 3
-  major: Engineering
-  class: 2023
-
-- name: Michelle Zhuang
-  photo: michelle.png
+- name: Lonnie Chien
+  photo: lonnie_chien.jpg
   number_educ: 3
   major: Engineering
   class: 2023
