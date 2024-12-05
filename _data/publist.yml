@@ -1,3 +1,18 @@
+- title: "ExaFEL: extreme-scale real-time data processing for X-ray free electron laser science"
+  image:
+  description: ""
+  authors: Johannes P. Blaschke, Robert Bolotovsky, Aaron S. Brewster, Jeffrey Donatelli, Antoine DuJardin, Wu-chun Feng, Vidya Ganapati, Wilko Kroeger, Derek Mendez, Peter McCorquodale, Seema Mirchandaney, Christopher P. O'Grady, Daniel W. Paley, Amedeo Perazzo, Frederic P. Poitevin, Billy K. Poon, Vinay B. Ramakrishnaiah, Nicholas K. Sauter, Niteya Shah, Elliott Slaughter, Christine Sweeney, Daniel Tchon, Monarin Uervirojnangkoorn, Felix Wittwer, Michael E Wall, Chun Hong Yoon, Iris D. Young
+  link:
+    url: https://www.frontiersin.org/journals/high-performance-computing/articles/10.3389/fhpcp.2024.1414569/full
+    display: Frontiers in High Performance Computing (2024)
+  pdf: ExaFEL2024.pdf
+  code: 0
+  data: 0
+  highlight: 0
+  news1:
+  news2:
+  doi: 10.3389/fhpcp.2024.1414569
+
 - title: "Self-Supervised Deep Learning for Model Correction in the Computational Crystallography Toolbox"
   image: SPREAD.png
   description: The Computational Crystallography Toolbox (CCTBX) is open-source software that allows for processing of crystallographic data, including from serial femtosecond crystallography (SFX), for macromolecular structure determination. We describe the potential impact of using self-supervised deep learning to correct the scientific model in CCTBX and provide uncertainty quantification. We describe open questions in algorithm development to help spur advances through dialog between crystallographers and machine learning researchers. 
